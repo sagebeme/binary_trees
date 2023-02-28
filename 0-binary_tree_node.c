@@ -6,12 +6,6 @@
  * @value: the value to put in the new node
  *
  * Return: a pointer to the new node, or NULL on failure
- *
- * FUNCTIONALITY
- *
- * 1. Allocate memory for a new binary tree node.
- *
- * Time Complexity: O(1)
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
