@@ -1,10 +1,9 @@
 #include "binary_trees.h"
 
 /**
- *
  *binary_tree_height - finds height of binary tree
  *
- * @tree: pointer to the root node of tree that
+ *@tree: pointer to the root node of tree that
  *        we are looking for the height
  *
  * Return: 0
